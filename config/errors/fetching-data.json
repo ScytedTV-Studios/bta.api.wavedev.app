@@ -1,6 +1,6 @@
 {
     "title": "",
-    "description": "An error occurred while fetching data for \`/${command} ${blockName}\`.",
+    "description": "An error occurred while fetching data for /${command} ${blockName}.",
     "image": "",
     "thumbnail": ""
 }
